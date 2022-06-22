@@ -1,5 +1,0 @@
-To:srknozsoz@gmail.com
-From:srknozsoz@gmail.com
-Subject: Disk Usage Alarm
-
-Alarm !! Disk kullanım Alanı:%
